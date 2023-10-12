@@ -1,3 +1,4 @@
-# Cool Location Certificate™
-Cool Location Certificate™ is Cooligus' way to show the best places in Poland (and maybe not only).
+# Certyfikat Chłodnej Lokacji™
+Certyfikat Chłodnej Lokacji™ to mój idiotyczny projekt, który po prostu jest.
+Jak moim zdaniem lokacja jest chłodna, dostaje certyfikat. I tyle.
 ![Certificate](./certificate.svg)
